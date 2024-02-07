@@ -1,0 +1,21 @@
+.create{
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    font-size: 2rem;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 2rem;
+    border: 4px solid yellow;
+}
+
+button{
+    padding: 15px;
+    margin-top: 2rem;
+    background-color: blue;
+    width: 20%;
+}
